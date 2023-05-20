@@ -1,0 +1,15 @@
+C:\Users\ioann\C#\CodingFactory3\Excercise1b\bin\Debug\net6.0\Excercise1b.exe
+C:\Users\ioann\C#\CodingFactory3\Excercise1b\bin\Debug\net6.0\Excercise1b.deps.json
+C:\Users\ioann\C#\CodingFactory3\Excercise1b\bin\Debug\net6.0\Excercise1b.runtimeconfig.json
+C:\Users\ioann\C#\CodingFactory3\Excercise1b\bin\Debug\net6.0\Excercise1b.dll
+C:\Users\ioann\C#\CodingFactory3\Excercise1b\bin\Debug\net6.0\Excercise1b.pdb
+C:\Users\ioann\C#\CodingFactory3\Excercise1b\obj\Debug\net6.0\Excercise1b.csproj.AssemblyReference.cache
+C:\Users\ioann\C#\CodingFactory3\Excercise1b\obj\Debug\net6.0\Excercise1b.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ioann\C#\CodingFactory3\Excercise1b\obj\Debug\net6.0\Excercise1b.AssemblyInfoInputs.cache
+C:\Users\ioann\C#\CodingFactory3\Excercise1b\obj\Debug\net6.0\Excercise1b.AssemblyInfo.cs
+C:\Users\ioann\C#\CodingFactory3\Excercise1b\obj\Debug\net6.0\Excercise1b.csproj.CoreCompileInputs.cache
+C:\Users\ioann\C#\CodingFactory3\Excercise1b\obj\Debug\net6.0\Excercise1b.dll
+C:\Users\ioann\C#\CodingFactory3\Excercise1b\obj\Debug\net6.0\refint\Excercise1b.dll
+C:\Users\ioann\C#\CodingFactory3\Excercise1b\obj\Debug\net6.0\Excercise1b.pdb
+C:\Users\ioann\C#\CodingFactory3\Excercise1b\obj\Debug\net6.0\Excercise1b.genruntimeconfig.cache
+C:\Users\ioann\C#\CodingFactory3\Excercise1b\obj\Debug\net6.0\ref\Excercise1b.dll

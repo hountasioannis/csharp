@@ -1,0 +1,15 @@
+C:\Users\ioann\C#\CodingFactory3\PrimitivesApp\bin\Debug\net6.0\PrimitivesApp.exe
+C:\Users\ioann\C#\CodingFactory3\PrimitivesApp\bin\Debug\net6.0\PrimitivesApp.deps.json
+C:\Users\ioann\C#\CodingFactory3\PrimitivesApp\bin\Debug\net6.0\PrimitivesApp.runtimeconfig.json
+C:\Users\ioann\C#\CodingFactory3\PrimitivesApp\bin\Debug\net6.0\PrimitivesApp.dll
+C:\Users\ioann\C#\CodingFactory3\PrimitivesApp\bin\Debug\net6.0\PrimitivesApp.pdb
+C:\Users\ioann\C#\CodingFactory3\PrimitivesApp\obj\Debug\net6.0\PrimitivesApp.csproj.AssemblyReference.cache
+C:\Users\ioann\C#\CodingFactory3\PrimitivesApp\obj\Debug\net6.0\PrimitivesApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ioann\C#\CodingFactory3\PrimitivesApp\obj\Debug\net6.0\PrimitivesApp.AssemblyInfoInputs.cache
+C:\Users\ioann\C#\CodingFactory3\PrimitivesApp\obj\Debug\net6.0\PrimitivesApp.AssemblyInfo.cs
+C:\Users\ioann\C#\CodingFactory3\PrimitivesApp\obj\Debug\net6.0\PrimitivesApp.csproj.CoreCompileInputs.cache
+C:\Users\ioann\C#\CodingFactory3\PrimitivesApp\obj\Debug\net6.0\PrimitivesApp.dll
+C:\Users\ioann\C#\CodingFactory3\PrimitivesApp\obj\Debug\net6.0\refint\PrimitivesApp.dll
+C:\Users\ioann\C#\CodingFactory3\PrimitivesApp\obj\Debug\net6.0\PrimitivesApp.pdb
+C:\Users\ioann\C#\CodingFactory3\PrimitivesApp\obj\Debug\net6.0\PrimitivesApp.genruntimeconfig.cache
+C:\Users\ioann\C#\CodingFactory3\PrimitivesApp\obj\Debug\net6.0\ref\PrimitivesApp.dll

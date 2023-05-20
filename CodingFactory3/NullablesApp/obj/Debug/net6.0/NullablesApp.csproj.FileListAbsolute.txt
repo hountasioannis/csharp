@@ -1,0 +1,15 @@
+C:\Users\ioann\C#\CodingFactory3\NullablesApp\bin\Debug\net6.0\NullablesApp.exe
+C:\Users\ioann\C#\CodingFactory3\NullablesApp\bin\Debug\net6.0\NullablesApp.deps.json
+C:\Users\ioann\C#\CodingFactory3\NullablesApp\bin\Debug\net6.0\NullablesApp.runtimeconfig.json
+C:\Users\ioann\C#\CodingFactory3\NullablesApp\bin\Debug\net6.0\NullablesApp.dll
+C:\Users\ioann\C#\CodingFactory3\NullablesApp\bin\Debug\net6.0\NullablesApp.pdb
+C:\Users\ioann\C#\CodingFactory3\NullablesApp\obj\Debug\net6.0\NullablesApp.csproj.AssemblyReference.cache
+C:\Users\ioann\C#\CodingFactory3\NullablesApp\obj\Debug\net6.0\NullablesApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ioann\C#\CodingFactory3\NullablesApp\obj\Debug\net6.0\NullablesApp.AssemblyInfoInputs.cache
+C:\Users\ioann\C#\CodingFactory3\NullablesApp\obj\Debug\net6.0\NullablesApp.AssemblyInfo.cs
+C:\Users\ioann\C#\CodingFactory3\NullablesApp\obj\Debug\net6.0\NullablesApp.csproj.CoreCompileInputs.cache
+C:\Users\ioann\C#\CodingFactory3\NullablesApp\obj\Debug\net6.0\NullablesApp.dll
+C:\Users\ioann\C#\CodingFactory3\NullablesApp\obj\Debug\net6.0\refint\NullablesApp.dll
+C:\Users\ioann\C#\CodingFactory3\NullablesApp\obj\Debug\net6.0\NullablesApp.pdb
+C:\Users\ioann\C#\CodingFactory3\NullablesApp\obj\Debug\net6.0\NullablesApp.genruntimeconfig.cache
+C:\Users\ioann\C#\CodingFactory3\NullablesApp\obj\Debug\net6.0\ref\NullablesApp.dll
